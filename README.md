@@ -1,2 +1,13 @@
 # auto_deploy_rancher
-help you to auto deploy rancher, k3d, rancher agent in your mac
+
+## Install all you need in your local
+
+```
+$ brew install k3d kubectl helm
+```
+## Run bash file to help you create the cluster and manage it
+
+```
+$ sh auto_deploy.sh
+```
+

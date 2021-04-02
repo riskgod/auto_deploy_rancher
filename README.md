@@ -11,3 +11,4 @@ $ brew install k3d kubectl helm
 $ sh auto_deploy.sh
 ```
 
+Open https://rancher.k3d.localhost/ in your chrome
